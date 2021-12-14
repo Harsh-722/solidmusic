@@ -72,7 +72,7 @@
   "process_gcast": "`Gcasting...`",
   "not_for_you": "This button is not for you!",
   "pm_greet": "**⟣⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⟢**\n \n✨ **Hi {} 🤩**\n**I am IronHeart Music Bot.**\n**I can stream any media in groups VC.**\n💡**For know more about my usage click 𝗛𝗲𝗹𝗽 button.\n \n**⟣⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⟢**",
-  "helpmusic": "💡 **To use this bot, first you must make assistant and me to be admin in your group, then how to use this bot, already detailed in » Command « button.",
+  "helpmusic": "💡 **To use this bot,Add bot to your group and make admin, then how to use this bot, already detailed in » Command « section.**",
   "backtomenu": "Back",
   "invalid_command_selection": "**Wrong command selection, accepted selection is (yes|true|on, no|false|off).**",
   "invalid_quality_selection": "**Wrong selection for setquality command, accepted selection is (low|medium|high).**",
